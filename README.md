@@ -32,11 +32,17 @@ This project is part of the KAIM 8 Learning Week 0 program. The project analyzes
 ## Objective 
 
  Compare the solar potential of Benin, Sierra Leone, and Togo based on the cleaned datasets.
-## Bonus Task:  Solar Data Dashboard
 
+## Usage 
+ - Combine the cleaned datasets and create summary statistics for each country. 
+ - Visualize differences in solar indicators such as GHI, DNI, and DHI. 
+ - Rank countries based on average solar irradiance.
+
+## Bonus Task:  Solar Data Dashboard
+## Objective
 An interactive Streamlit dashboard to explore solar radiation insights for Benin, Sierra Leone, and Togo.
 
-## Features
+## Usage
 - Country selector for Benin, Sierra Leone, and Togo
 - Interactive GHI, DNI, DHI, ModA & ModB boxplot
 - Date range filter
